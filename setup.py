@@ -11,7 +11,7 @@ LONG_DESCRIPTION = 'The modules include functions that might be useful in genera
 
 # Setting up
 setup(
-    name="pyvis",
+    name="pydatavisualization",
     version=VERSION,
     license="MIT",
     author="Tamer Samara",

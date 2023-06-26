@@ -3,7 +3,6 @@
 The project include module with functions to summarize and analysis dataset in order 
 to understand properties and relationships.
 
-
 </p>
 <h2> DESCRIPTIVE  MODULE</h2>
 <h3>Answer the question (What Happen?)</h3>
