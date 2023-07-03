@@ -4,9 +4,9 @@ from setuptools import setup
 with open("README.md", "r") as f:
     long_description = f.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.4'
 DESCRIPTION = 'Data Visualization Functions'
-LONG_DESCRIPTION = 'The modules include functions that might be useful in general cases for data analysis ' \
+LONG_DESCRIPTION = 'The module include functions that might be useful in general cases for data analysis ' \
                    'and data visualization. '
 
 # Setting up

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pydatavisualization
-Version: 0.0.1
+Version: 0.0.3
 Summary: Data Visualization Functions
 Author: Tamer Samara
 Author-email: tamer.samara@gmail.com
@@ -18,7 +18,7 @@ License-File: LICENSE
 The project include module with functions to summarize and analysis dataset in order 
 to understand properties and relationships.
 
-[Read ME](docs/_build/html/index.html)
+[ReadME](https://tamer-george.github.io/docs/_build/html/index.html)
 </p>
 <h2> DESCRIPTIVE  MODULE</h2>
 <h3>Answer the question (What Happen?)</h3>
