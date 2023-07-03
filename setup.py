@@ -20,7 +20,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=setuptools.find_packages(),
-    install_requires=["Pandas", "Statsmodels", "Seaborn", "Matplotlib", "SciPy", "NumPy", "Scikit-learn"],
+    install_requires=["Pandas", "Statsmodels", "Seaborn", "Matplotlib","NumPy", "Scikit-learn"],
     keywords=['python', 'data+science', 'eda', 'data+preprocessing', 'data+analysis', 'machine+learning'],
     classifiers=[
         "Programming Language :: Python :: 3",
